@@ -6,4 +6,4 @@ Note that this Python code is in Python 2 (not Python 3).
 
 ## References
 
-Bianchi, F., Stivala, A., & Lomi, A. (2022). Multiple clocks in network evolution. Methodological Innovations. https://doi.org/10.1177/20597991221077877
+Bianchi, F., Stivala, A., & Lomi, A. (2022). Multiple clocks in network evolution. *Methodological Innovations*. https://doi.org/10.1177/20597991221077877
