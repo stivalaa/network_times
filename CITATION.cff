@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bianchi"
+  given-names: "Federica"
+  orcid: "https://orcid.org/0000-0002-4887-8424"
+- family-names: "Stivala"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-2442-4743"
+- family-names: "Lomi"
+  given-names: "Alessandro"
+title: "Multiple clocks in network evolution"
+url: "https://github.com/stivalaa/network_times"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bianchi"
+      given-names: "Federica"
+      orcid: "https://orcid.org/0000-0002-4887-8424"
+    - family-names: "Stivala"
+      given-names: "Alex"
+      orcid: "https://orcid.org/0000-0002-2442-4743"
+    - family-names: "Lomi"
+      given-names: "Alessandro"
+  title: "Multiple clocks in network evolution"
+  doi: 10.1177/20597991221077877
+  journal: Methodological Innovations
+  year: 2022
+  volume: 15
+  issue: 1
+  start: 29
+  end: 41
